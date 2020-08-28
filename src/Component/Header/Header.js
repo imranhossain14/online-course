@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Header = () => {
     return (
         <div className ="Heading">
-            <h1>Online Course</h1>
+            <h1>Online Class</h1>
             <Navbar bg="dark" variant="dark">
             
                 <Nav className="mr-auto">
