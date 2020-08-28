@@ -14,7 +14,7 @@ const Cart = (props) => {
         <div>
             <h4>Course Order Summary</h4>
             <p>Enroll Courses : {cart.length}</p>
-            <p>Total price : {formatNumber(total)}</p>
+            <p>Total price : ${formatNumber(total)}</p>
         </div>
     );
 };

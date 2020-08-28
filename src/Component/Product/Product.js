@@ -15,7 +15,7 @@ console.log(props);
         <h4>{title}</h4>
         <br />
       
-        <p>{price}</p>
+        <p>${price}</p>
         <br />
 
         <Button variant="success"
